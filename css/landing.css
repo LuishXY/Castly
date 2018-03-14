@@ -1,6 +1,8 @@
-/*! Skeleton Framework | 1.0.4 | MIT | Dec 20th, 2015 */
+﻿/*! Skeleton Framework | 1.0.4 | MIT | Dec 20th, 2015 */
 
-
+footer{
+text-align:center;
+}
 
 /* NAV
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -65,7 +67,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .values {
-  background-image: url('../images/landing/values-bg.jpg');
+  background-image: url('../images/landing/collab1.jpg');
   background-size: cover;
   color: #fff;
   padding-bottom: 5rem;
@@ -73,7 +75,7 @@
 
 .value-multiplier {
   margin-bottom: .5rem;
-  color: #11DFC7;
+  color: #fab6b7;
 }
 
 .value-heading {
@@ -98,7 +100,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .categories {
-  background-image: url('../images/landing/values-bg.jpg');
+  background-image: url('../images/landing/collab2.jpg');
   background-size: cover;
   color: #fff;
 }
